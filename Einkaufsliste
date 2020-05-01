@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<main>
+    <h2>Einkaufsliste</h2>
+    <form action="/submit-einkaufsliste-007"
+      <label for"Einkaufsliste">
+      <input id="Einkaufsliste" type="checkbox"><input type="text">
+      </label> <br>
+      <label for"Einkaufsliste">
+      <input id="Einkaufsliste" type="checkbox"><input type="text">
+      </label> <br><label for"Einkaufsliste">
+      <input id="Einkaufsliste" type="checkbox"><input type="text">
+      </label> <br><label for"Einkaufsliste">
+      <input id="Einkaufsliste" type="checkbox"><input type="text">
+      </label> <br><label for"Einkaufsliste">
+      <input id="Einkaufsliste" type="checkbox"><input type="text">
+      </label> <br><label for"Einkaufsliste">
+      <input id="Einkaufsliste" type="checkbox"><input type="text">
+      </label> <br><label for"Einkaufsliste">
+      <input id="Einkaufsliste" type="checkbox"><input type="text">
+      </label> <br><label for"Einkaufsliste">
+      <input id="Einkaufsliste" type="checkbox"><input type="text">
+      </label> <br><label for"Einkaufsliste">
+      <input id="Einkaufsliste" type="checkbox"><input type="text">
+      </label> <br><label for"Einkaufsliste">
+      <input id="Einkaufsliste" type="checkbox"><input type="text">
+      </label> <br>
+    </form>
+  </main>
+</html>
